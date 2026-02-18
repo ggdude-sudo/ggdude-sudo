@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-brightgreen?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Location-Everywhere-blue?style=for-the-badge&logo=world&logoColor=white">
+<img src="https://img.shields.io/badge/Location-Internet-blue?style=for-the-badge&logo=world&logoColor=white">
   <img src="https://img.shields.io/badge/Timezone-UTC%20%2B0-orange?style=for-the-badge">
 </p>
 
@@ -29,19 +29,19 @@
 ## 🗂️ Tech Stack (Organized)
 
 ### 💬 Programming Languages
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
 </p>
 
 ### 🎨 Frontend Development
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white">
@@ -53,7 +53,7 @@
 </p>
 
 ### ⚙️ Backend & Frameworks
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
@@ -63,7 +63,7 @@
 </p>
 
 ### 🗄️ Databases
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -72,9 +72,9 @@
 </p>
 
 ### ☁️ Cloud • DevOps • Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -85,7 +85,7 @@
 </p>
 
 ### 🤖 Data & AI Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
@@ -102,9 +102,7 @@
   • Security automation scripts
 
 ⚠️ Challenging:
-  • Advanced port scanning techniques
-  • DirBuster & directory enumeration
-  • Reverse engineering basics
+  • Reverse engineering> Ghidra
 </pre>
 
 ## 🌐 Networking Mastery
@@ -126,9 +124,9 @@
 | Category | Technologies | Status |
 |----------|-------------|--------|
 | 🐍 Scripting | Python, Bash | ✅ Comfortable |
-| 🌐 Web Dev | PHP, React, Vue, Node | ✅ Building |
+| 🌐 Web Dev | PHP, ReactJS, Vite, NodeJS | ✅ Building |
 | 🔧 Systems | Java, .NET, Rust | 🔄 Learning |
-| ⚡ Automation | Python scripts, Zapier | ✅ Active |
+| ⚡ Automation | Python scripts | ✅ Active |
 
 ---
 
@@ -143,16 +141,7 @@
 
 ---
 
-## 📊 GitHub Stats (Optional Widget)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true">
-</p>
-
-> 💡 *Replace `YOUR_USERNAME` with your actual GitHub handle*
-
----
 
 ## 🌐 Connect With Me
 
@@ -187,9 +176,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge&logo=github" alt="Profile Views">
-</p>
+
 
 <!-- Optional: Animated footer -->
 <p align="center">
