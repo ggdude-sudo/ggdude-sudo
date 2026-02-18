@@ -5,39 +5,37 @@
 ---
 
 # 👨‍💻 About Me
-
-I’m a passionate learner diving deep into **Networking** and **Cybersecurity** with a focus on **web applications**.  
-I’m fascinated by how security protects modern online systems and love experimenting with tools, configs, and code.
+I'm a passionate learner diving deep into **Networking** and **Cybersecurity** with a focus on **web applications**.  
+I'm fascinated by how security protects modern online systems and love experimenting with tools, configs, and code.
 
 ---
 
 ## 🔐 Cybersecurity
 - **Enjoy:** Information gathering, creating custom exploits  
-- **Challenging:** Port scanning, DirBuster search  
+- **Challenging:** Port scanning, DirBuster search
 
 ---
 
 ## 🌐 Networking
 - **Enjoy:**  
   IP addressing • VLANs • Windows Server Routing • Remote Access • Group Policies  
-- **Challenging:** DNS configurations  
+- **Challenging:** DNS configurations
 
 ---
 
 ## 💻 Coding
 - **Enjoy:** Python • PHP • ReactJS • Automation  
-- **Challenging:** Rust  
+- **Challenging:** Rust
 
 ---
 
 ## 🗃 Databases
 - **Enjoy:** MySQL  
-- **Challenging:** Supabase  
+- **Challenging:** Supabase
 
 ---
 
 # 🌐 Connect with Me
-
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/ggdude_insight)
 
 ---
@@ -96,16 +94,12 @@ I’m fascinated by how security protects modern online systems and love experim
 ---
 
 # 📚 Current Focus
-
 - Web Application Security  
 - Advanced Networking + Firewalls + VPNs + DNS  
-- Python Automation & Tools  
+- Python Automation & Tools
 
 ---
 
 # 🚀 Collaboration
-
-I’m always open to collaborating, contributing to open source, and learning from other developers.
-
+I'm always open to collaborating, contributing to open source, and learning from other developers.  
 ⭐ **Check out my repositories and feel free to connect!**
-
