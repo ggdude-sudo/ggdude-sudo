@@ -167,7 +167,7 @@
 • Automation Tool Development  
 • Knowledge Sharing & taking Mentorship  
 
-⭐ *• Let's build something awesome!*
+⭐ *• Let's build something awesome*
 
 </div>
 
