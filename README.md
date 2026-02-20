@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Cybersecurity%20Learner%20%F0%9F%94%90;Networking%20Explorer%20%F0%9F%8C%90;Full%20Stack%20Developer%20%F0%9F%92%BB;Automation%20Builder%20%E2%9A%A1&center=true&width=700&height=60&font=Fira%20Code&color=7AF7FF&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Cyber%20security%20Expert%20%F0%9F%94%90;Network%20Engineer%20%F0%9F%8C%90;Web%20Developer%20%F0%9F%92%BB;Automation%20Script%20Builder%20%E2%9A%A1&center=true&width=700&height=60&font=Fira%20Code&color=7AF7FF&pause=1000">
 </p>
 
 <p align="center">
